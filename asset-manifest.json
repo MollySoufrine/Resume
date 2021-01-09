@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mollysoufrine.github.io/Resume/static/css/main.ba0daf62.chunk.css",
-    "main.js": "/mollysoufrine.github.io/Resume/static/js/main.fd053493.chunk.js",
-    "main.js.map": "/mollysoufrine.github.io/Resume/static/js/main.fd053493.chunk.js.map",
-    "runtime-main.js": "/mollysoufrine.github.io/Resume/static/js/runtime-main.de59715a.js",
-    "runtime-main.js.map": "/mollysoufrine.github.io/Resume/static/js/runtime-main.de59715a.js.map",
-    "static/js/2.f71dba9a.chunk.js": "/mollysoufrine.github.io/Resume/static/js/2.f71dba9a.chunk.js",
-    "static/js/2.f71dba9a.chunk.js.map": "/mollysoufrine.github.io/Resume/static/js/2.f71dba9a.chunk.js.map",
-    "index.html": "/mollysoufrine.github.io/Resume/index.html",
-    "static/css/main.ba0daf62.chunk.css.map": "/mollysoufrine.github.io/Resume/static/css/main.ba0daf62.chunk.css.map",
-    "static/js/2.f71dba9a.chunk.js.LICENSE.txt": "/mollysoufrine.github.io/Resume/static/js/2.f71dba9a.chunk.js.LICENSE.txt"
+    "main.css": "/Resume/static/css/main.ba0daf62.chunk.css",
+    "main.js": "/Resume/static/js/main.fd053493.chunk.js",
+    "main.js.map": "/Resume/static/js/main.fd053493.chunk.js.map",
+    "runtime-main.js": "/Resume/static/js/runtime-main.79259904.js",
+    "runtime-main.js.map": "/Resume/static/js/runtime-main.79259904.js.map",
+    "static/js/2.f71dba9a.chunk.js": "/Resume/static/js/2.f71dba9a.chunk.js",
+    "static/js/2.f71dba9a.chunk.js.map": "/Resume/static/js/2.f71dba9a.chunk.js.map",
+    "index.html": "/Resume/index.html",
+    "static/css/main.ba0daf62.chunk.css.map": "/Resume/static/css/main.ba0daf62.chunk.css.map",
+    "static/js/2.f71dba9a.chunk.js.LICENSE.txt": "/Resume/static/js/2.f71dba9a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de59715a.js",
+    "static/js/runtime-main.79259904.js",
     "static/js/2.f71dba9a.chunk.js",
     "static/css/main.ba0daf62.chunk.css",
     "static/js/main.fd053493.chunk.js"
