@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Pirata+One&display=swap");
+
+.resume-section,
+.home-page {
+  text-align: center;
+}
+.skill-section {
+  list-style: none;
+  list-style-type: none;
+}
+
+.accordion-flush .accordion-button {
+  display: inline-block;
+}
+h1 {
+  font-family: "Bungee Inline";
+}
+h3 {
+  text-decoration: underline;
+  font-family: "Bungee Inline";
+}
+
+.view-resume {
+  text-align: center;
+  color: #151515;
+  padding: 0%;
+  margin: 0%;
+}
+.accordion-header {
+  padding-top: 1rem;
+}
