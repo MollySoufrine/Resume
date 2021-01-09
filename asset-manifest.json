@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MollySoufrine/Resume/static/css/main.ba0daf62.chunk.css",
+    "main.js": "/MollySoufrine/Resume/static/js/main.fd053493.chunk.js",
+    "main.js.map": "/MollySoufrine/Resume/static/js/main.fd053493.chunk.js.map",
+    "runtime-main.js": "/MollySoufrine/Resume/static/js/runtime-main.cff37e14.js",
+    "runtime-main.js.map": "/MollySoufrine/Resume/static/js/runtime-main.cff37e14.js.map",
+    "static/js/2.f71dba9a.chunk.js": "/MollySoufrine/Resume/static/js/2.f71dba9a.chunk.js",
+    "static/js/2.f71dba9a.chunk.js.map": "/MollySoufrine/Resume/static/js/2.f71dba9a.chunk.js.map",
+    "index.html": "/MollySoufrine/Resume/index.html",
+    "static/css/main.ba0daf62.chunk.css.map": "/MollySoufrine/Resume/static/css/main.ba0daf62.chunk.css.map",
+    "static/js/2.f71dba9a.chunk.js.LICENSE.txt": "/MollySoufrine/Resume/static/js/2.f71dba9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cff37e14.js",
+    "static/js/2.f71dba9a.chunk.js",
+    "static/css/main.ba0daf62.chunk.css",
+    "static/js/main.fd053493.chunk.js"
+  ]
+}
