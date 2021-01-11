@@ -3,6 +3,7 @@
 .resume-section,
 .home-page {
   text-align: center;
+  background-color: rgb(246, 180, 228);
 }
 .skill-section {
   list-style: none;
@@ -11,6 +12,7 @@
 
 .accordion-flush .accordion-button {
   display: inline-block;
+  background-color: rgb(246, 180, 228);
 }
 h1 {
   font-family: "Bungee Inline";
