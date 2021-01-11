@@ -9,19 +9,18 @@ function Accordion() {
     <div className="resume-section">
       <div className="accordion accordion-flush " id="accordionFlushExample">
         <div className="accordion-item">
-          <h1 className="accordion-header" id="flush-headingOne">
-            RESUME
-            <button
-              className="accordion-button collapsed "
-              type="button"
-              data-bs-toggle="collapse"
-              data-bs-target="#flush-collapseOne"
-              aria-expanded="false"
-              aria-controls="flush-collapseOne"
-            >
-              <p className="view-resume">Click here to view</p>
-            </button>
-          </h1>
+          <button
+            className="accordion-button collapsed "
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseOne"
+            aria-expanded="false"
+            aria-controls="flush-collapseOne"
+          >
+            <h1 className="accordion-header" id="flush-headingOne">
+              VIEW RESUME HERE
+            </h1>
+          </button>
           <div
             id="flush-collapseOne"
             className="accordion-collapse collapse light"

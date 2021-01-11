@@ -13,6 +13,7 @@
 .accordion-flush .accordion-button {
   display: inline-block;
   background-color: rgb(249, 197, 234);
+  color: #151515;
 }
 h1 {
   font-family: "Bungee Inline";
