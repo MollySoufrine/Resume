@@ -3,7 +3,8 @@
 .basics-section {
   color: #151515;
   font-family: "Bungee Inline";
-  background-color: rgb(219, 251, 220);
+  background-color: #f1ffe7;
+  /* border: solid 1rem #a9fdac; */
 }
 .basics-name {
   font-size: 3rem;
