@@ -14,10 +14,12 @@
 }
 h1 {
   font-family: "Bungee Inline";
+  font-size: 2rem;
 }
 h3 {
   text-decoration: underline;
   font-family: "Bungee Inline";
+  font-size: 3rem;
 }
 
 .view-resume {
