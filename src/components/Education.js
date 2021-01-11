@@ -7,7 +7,7 @@ function Education() {
       <h3>Education</h3>
       <br />
       {resume.education.map((educationInfo) => (
-        <p>
+        <p className="education">
           {educationInfo.institution} {educationInfo.area}{" "}
           {educationInfo.studyType} {educationInfo.endDate}
         </p>

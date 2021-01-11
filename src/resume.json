@@ -6,10 +6,10 @@
       "email": "mollysoufrine@gmail.com",
       "phone": "(203) 895-7309",
       "linkedin": "Linkedin",
-      "github": "Github",
-      "summary": "Hi there! I’m Molly and I’m a recent graduate from a 6 month Full Stack Web Development Boot Camp. Through my experiences with frontend and backend development, I am continuing to sharpen my skills by creating user friendly websites that are functional, visually appealing, and client oriented."
+      "github": "Github"
     }
   ],
+  "summary": ["React focused", "Client Oriented", "Ambitious problem solver"],
 
   "address": {
     "postalCode": "06512",

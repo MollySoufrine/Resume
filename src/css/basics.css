@@ -3,7 +3,13 @@
 .basics-section {
   color: #151515;
   font-family: "Bungee Inline";
-  background-color: rgb(246, 180, 228);
+  background-color: rgb(219, 251, 220);
+}
+.basics-name {
+  font-size: 3rem;
+}
+.basic-info {
+  text-decoration: none;
 }
 .summary-section {
   margin-left: 8rem;
@@ -18,4 +24,9 @@
 }
 .pure-button:hover {
   color: black;
+}
+li {
+  list-style-type: none;
+  font-weight: bold;
+  font-family: "roboto";
 }

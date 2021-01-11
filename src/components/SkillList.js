@@ -5,7 +5,7 @@ function Skills() {
     <div className="skill-section">
       <h3>Technical Skills</h3>
       {resume.skills.map((skills) => (
-        <li>{skills}</li>
+        <li classNAme="skills">{skills}</li>
       ))}
     </div>
   );

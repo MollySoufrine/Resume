@@ -6,7 +6,7 @@ function Experience() {
     <div className="experience-section">
       <h3>Experience</h3>
       {resume.work.map((work) => (
-        <p>
+        <p className="experience">
           <strong>{work.company}</strong> {work.position} {work.startDate}{" "}
           <br />
           {work.description} <br />

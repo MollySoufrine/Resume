@@ -6,10 +6,10 @@ function BasicData() {
   return (
     <div className="basics-section">
       {resume.basics.map((basic) => (
-        <h2>{basic.name}</h2>
+        <h1 className="basics-name">{basic.name}</h1>
       ))}
       {resume.basics.map((basic) => (
-        <p>
+        <h3 className="basic-info">
           {basic.label} <br />
           {basic.email} <br />
           <a
@@ -23,12 +23,12 @@ function BasicData() {
           >
             <br />
           </a>
-        </p>
+        </h3>
       ))}
 
-      {resume.basics.map((basic) => (
+      {resume.summary.map((summary) => (
         <div className="summary-section">
-          <p>{basic.summary}</p>
+          <li>{summary}</li>
         </div>
       ))}
     </div>

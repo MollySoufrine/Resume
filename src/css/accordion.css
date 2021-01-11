@@ -3,7 +3,7 @@
 .resume-section,
 .home-page {
   text-align: center;
-  background-color: rgb(246, 180, 228);
+  background-color: rgb(249, 197, 234);
 }
 .skill-section {
   list-style: none;
@@ -12,16 +12,24 @@
 
 .accordion-flush .accordion-button {
   display: inline-block;
-  background-color: rgb(246, 180, 228);
+  background-color: rgb(249, 197, 234);
 }
 h1 {
   font-family: "Bungee Inline";
-  font-size: 2rem;
+  font-size: 2.5rem;
+}
+.view-resume {
+  font-size: 2.5rem;
 }
 h3 {
   text-decoration: underline;
   font-family: "Bungee Inline";
-  font-size: 3rem;
+  font-size: 2rem;
+}
+.education,
+.experience,
+.skills {
+  font-size: 1.09rem;
 }
 
 .view-resume {
