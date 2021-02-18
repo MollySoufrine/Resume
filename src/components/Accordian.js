@@ -1,7 +1,5 @@
 import React from "react";
-import Education from "./Education";
-import Experience from "./Experience";
-import Skills from "./SkillList";
+
 import "../css/accordion.css";
 
 function Accordion() {
@@ -18,7 +16,7 @@ function Accordion() {
             aria-controls="flush-collapseOne"
           >
             <h1 className="accordion-header" id="flush-headingOne">
-              VIEW RESUME HERE
+              something here
             </h1>
           </button>
           <div
@@ -27,11 +25,7 @@ function Accordion() {
             aria-labelledby="flush-headingOne"
             data-bs-parent="#accordionFlushExample"
           >
-            <div className="accordion-body">
-              <Education />
-              <Experience />
-              <Skills />
-            </div>
+            <div className="accordion-body"></div>
           </div>
         </div>
       </div>

@@ -6,7 +6,9 @@ import Resumedata from "./pages/Resume";
 function App() {
   return (
     <div className="App">
-      <Resumedata />
+      <div className="container-border">
+        <Resumedata />
+      </div>
     </div>
   );
 }
